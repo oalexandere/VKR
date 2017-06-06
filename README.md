@@ -1,2 +1,2 @@
 # VKR
-HSE VKR notebooks
+HSE VKR main notebooks
